@@ -5,7 +5,6 @@ using Microsoft.Extensions.Logging;
 using Microsoft.UI;
 using Microsoft.UI.Windowing;
 using Microsoft.UI.Xaml;
-using System;
 using WinRT.Interop;
 
 // To learn more about WinUI, the WinUI project structure,
